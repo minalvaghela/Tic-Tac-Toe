@@ -118,4 +118,9 @@ nav ul {
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
     }
+
+    .line {
+        height: 2px;
+        background-color: #FF5733;
+    }
 }
